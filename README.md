@@ -2,8 +2,7 @@
 Codewars programming tasks of many types and difficulty levels that I've solved to improve my coding skills.
 
 ## My Codewars Badge
-![](https://www.codewars.com/users/LaurenBrown/badges/large)
-
+![](https://www.codewars.com/users/Lauren%20Ch%C3%A9/badges/large)
 
 
 As a consistent Codewars challenger, I'm committed to enhancing my coding skills and staying on top of the latest industry trends. With a wide range of coding challenges available, Codewars provides me with the perfect platform to hone my problem-solving skills and explore new coding concepts.
